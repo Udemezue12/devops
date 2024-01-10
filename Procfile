@@ -1,4 +1,5 @@
-release: python manage.py migrate
+release: python manage.py makemigrations --no-input && python manage.py migrate --no-input
+
 
 web: waitress-serve --port=$PORT simply.wsgi:application
 
