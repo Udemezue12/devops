@@ -1,0 +1,7 @@
+2024-01-10 18:18:36,560 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-01-10 18:19:26,508 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-01-10 18:21:21,638 (INFO) - django.utils.autoreload - C:\Users\DELL\Desktop\devops\simply\settings\dev.py changed, reloading.
+2024-01-10 18:21:34,565 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-01-10 18:27:04,931 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-01-10 18:28:04,057 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-01-10 18:28:40,700 (INFO) - django.utils.autoreload - C:\Users\DELL\Desktop\devops\simply\settings\dev.py changed, reloading.

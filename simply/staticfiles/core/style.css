@@ -1,0 +1,38 @@
+/* body { 
+  margin: 0;
+}
+
+.home-page { 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* background-color: #1ec8aa; */
+  /* background-color: gray; */
+  /* height: 100vh; */
+  /* width: 100vw; */
+/* }  */
+
+/* .logo {
+  width: 400px;
+  
+} */
+
+/* .thumbnail {
+  object-fit: cover;
+  width: 100px;
+  height: 100px;
+}  */
+h1,h2, h3 {
+  font-weight: bold;
+}
+body{
+  background-color: #1ec8aa;
+}
+h2{
+  font-size: 3rem;
+}
+
+.navbar .cig{
+  font-size: 2rem;
+  font-weight: bold;
+}
