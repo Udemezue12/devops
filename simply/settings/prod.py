@@ -4,7 +4,7 @@ import dj_database_url
 
 SECRET_KEY = os.environ['SECRET_KEY']
 
-PORT = int(os.environ.get('PORT', 8000))
+PORT = int(os.environ.get('PORT', 8080))
 
 DEBUG = False
 
