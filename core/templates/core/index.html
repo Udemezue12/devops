@@ -1,7 +1,7 @@
-
+{% comment %} {% comment %} 
 {% load static %}
 
-<html> 
+<html > 
 
     <head>
 
@@ -82,7 +82,14 @@
         <br>
         <br>
   
-        <div class="text-center">
+        {% comment %} <div class="home-page">
+          <img src="{% static 'core/logo.svg' %}" alt="Logo" class="logo" />
+        </div>  {% endcomment %}
+
+        {% comment %} <div class="text-center">
+
+
+          
   
         <h2> WELCOME </h2>
   
@@ -112,8 +119,25 @@
 
     crossorigin="anonymous">
 
-    </script>
+    </script> {% endcomment %}
 
 
+{% comment %} </html> {% endcomment %}
+
+
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="{% static 'core/styles.css' %}" />
+  </head>
+  <body>
+    <div class="home-page">
+      <img src="{% static 'core/cigman-2.png' %}" alt="Logo" class="logo" />
+    </div>
+  </body>
 </html>
-
