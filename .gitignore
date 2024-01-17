@@ -1,5 +1,9 @@
 /venv/
 /staticfiles/
+/locustfiles/
+/general.log/
+/db.sqlite3/
+/pytest.ini/
 /media/
 .env
 
