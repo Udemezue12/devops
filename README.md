@@ -92,7 +92,7 @@ ecommerce-api/
 
 Clone the repo
 
-git clone https://github.com/your-username/ecommerce-api.git
+git clone https://github.com/Udemezue12/devops.git
 cd ecommerce-api
 
 
